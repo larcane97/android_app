@@ -1,0 +1,24 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="webp" type="Image" />
+      <mapping ext=" permission" type="PLAIN_TEXT" />
+      <mapping ext=" listview" type="PLAIN_TEXT" />
+      <mapping ext=" async" type="PLAIN_TEXT" />
+      <mapping ext=" nullsafety" type="PLAIN_TEXT" />
+      <mapping ext=" addview" type="PLAIN_TEXT" />
+      <mapping ext=" database" type="PLAIN_TEXT" />
+      <mapping ext=" library" type="PLAIN_TEXT" />
+      <mapping ext=" fragment" type="PLAIN_TEXT" />
+      <mapping ext="activity" type="PLAIN_TEXT" />
+      <mapping ext=" context" type="PLAIN_TEXT" />
+      <mapping ext=" task" type="PLAIN_TEXT" />
+      <mapping ext=" tablayout, pager" type="PLAIN_TEXT" />
+      <mapping ext=" recyclerview" type="PLAIN_TEXT" />
+      <mapping ext=" intent" type="PLAIN_TEXT" />
+      <mapping ext=" listner" type="PLAIN_TEXT" />
+      <mapping ext=" network" type="PLAIN_TEXT" />
+      <mapping ext=" thread" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
